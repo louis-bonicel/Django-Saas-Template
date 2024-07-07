@@ -2,3 +2,6 @@ django
 stripe
 psycopg2-binary
 django-cors-headers
+djangorestframework
+cryptography
+drf-jwt
